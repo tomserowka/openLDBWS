@@ -1,0 +1,12 @@
+{
+    "name": "nodes/openldbws",
+    "description": "phpOpenLDBWS package",
+    "authors": [
+        {
+            "name": "Tom Serowka",
+            "email": "tomserowka@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
